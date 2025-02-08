@@ -10,8 +10,9 @@ public class InsertData {
 
 
 
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        System.out.println("heelo");
         Connection connection=null;
         Statement statement=null;
         ResultSet rs=null;
